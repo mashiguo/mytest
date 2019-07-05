@@ -6,7 +6,3 @@ printf("hello world!\n");
 reteurn 0;
 }
 
-@@@@@@@@@@@@@@@@@@@@
-
-ddddddddddddddddddddddd
-
